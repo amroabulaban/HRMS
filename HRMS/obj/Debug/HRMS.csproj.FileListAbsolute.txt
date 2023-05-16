@@ -1,0 +1,12 @@
+C:\Users\amroa\source\repos\HRMS\HRMS\bin\Debug\HRMS.exe.config
+C:\Users\amroa\source\repos\HRMS\HRMS\bin\Debug\HRMS.exe
+C:\Users\amroa\source\repos\HRMS\HRMS\bin\Debug\HRMS.pdb
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.LOGIN.resources
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.cache
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.exe
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.pdb
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Form2.resources
