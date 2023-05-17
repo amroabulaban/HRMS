@@ -10,3 +10,6 @@ C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.ca
 C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.exe
 C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.pdb
 C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Form2.resources
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Form3.resources
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Form4.resources
+C:\Users\amroa\source\repos\HRMS\HRMS\obj\Debug\HRMS.Form5.resources

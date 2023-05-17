@@ -63,6 +63,16 @@ namespace HRMS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _656_6560404_icons8_staff_filled_1400_icon_hd_png_download {
+            get {
+                object obj = ResourceManager.GetObject("656-6560404_icons8-staff-filled-1400-icon-hd-png-download", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Coat_of_Arms_of_Altınbaş_University_svg {
             get {
                 object obj = ResourceManager.GetObject("Coat_of_Arms_of_Altınbaş_University.svg", resourceCulture);

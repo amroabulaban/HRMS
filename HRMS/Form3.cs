@@ -19,7 +19,22 @@ namespace HRMS
 
         private void button3_Click(object sender, EventArgs e)
         {
+            Form5 cf1 = new Form5();
+            cf1.MdiParent = this;
+            cf1.Show();
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 cf1 = new Form4();
+            cf1.MdiParent = this;
+            cf1.Show();
+                
+         }
     }
 }
